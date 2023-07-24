@@ -1,1 +1,1 @@
-# fucking
+# data structure
